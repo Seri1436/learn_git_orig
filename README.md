@@ -1,1 +1,3 @@
-# learn_git_orig
+# learn_git
+
+ver 0.0
